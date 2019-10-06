@@ -1,0 +1,11 @@
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.dll
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.dll
+/Users/ekel/Documents/GitHub/dotnet/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.pdb
